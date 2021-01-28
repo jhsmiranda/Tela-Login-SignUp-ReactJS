@@ -1,0 +1,104 @@
+.titulo{
+    font-family: tahoma;
+    color: rgb(214, 212, 212);
+}
+
+.fotoperfil {
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.Input{
+    justify-content: center;
+    width:75%;
+    height: 30px;
+    margin: 10px;
+    background: rgba(33, 40, 136, 0.349);
+    font: 12px verdana, arial, sans-serif;
+    border: 2px solid rgba(148, 149, 161, 0.541);
+    border-radius: 10px;
+    outline: none;
+    color: #fff;
+    padding-left: 15px;
+}
+
+::-webkit-input-placeholder {
+   color: rgba(250, 250, 250, 0.836);
+   font-weight: bold;
+   font-size: 11px;
+}
+
+.LabelCheckBox {
+    color:rgb(75, 75, 75);
+    font-weight: bold;
+}
+
+.LabelCheckBoxSign {
+    color:rgb(75, 75, 75);
+    font-weight: bold;
+}
+
+.InputCheckBoxSign{
+    justify-content: left;
+}
+
+
+.LinkPassword {
+    color: rgba(250, 250, 250, 0.836);
+    text-decoration: none;
+}
+
+.RePass{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.ButtonLogin {
+    justify-content: center;
+    width:80%;
+    height: 30px;
+    margin: 15px 0px;
+    background: rgb(218, 61, 139);
+    border: none;
+    color: rgb(214, 212, 212);
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+
+.ButtonSignUp{
+    justify-content: center;
+    width:80%;
+    height: 30px;
+    margin: 15px 0px;
+    background: rgb(218, 61, 139);
+    border: none;
+    color: rgb(214, 212, 212);
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+
+.LinkNewAccount {
+    color: rgba(250, 250, 250, 0.836);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.POr {
+    color: rgba(250, 250, 250, 0.836);
+    margin-top: 0px;
+}
+
+.IconFace{
+    border-radius: 80%;
+}
+
+.Icones {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 70px;
+}
+

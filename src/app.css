@@ -1,0 +1,49 @@
+body {
+    background-image: url('ceu-noite2.jpg');
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.box {
+    justify-content: center;
+    width: 710px;
+    height:550px;
+}
+
+.loginForm {
+    background-color: rgba(33, 40, 136, 0.500);
+    width: 350px;
+    height: 500px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.signUpForm {
+    background-color: rgba(33, 40, 136, 0.500);
+    width: 350px;
+    height: 500px;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.Footer {
+    color: #fff;
+}
+
+.EmpresaName {
+    color: rgb(248, 0, 165);
+}
+
+p {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.Conteudo {
+    display: flex;
+}
